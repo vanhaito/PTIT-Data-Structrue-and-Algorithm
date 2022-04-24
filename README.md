@@ -1,2 +1,2 @@
 # Datastructure-Algorithm
-PTIT Contest
+Source code for DSA at PTIT
